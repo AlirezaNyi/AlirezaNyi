@@ -75,14 +75,6 @@ Not just API wrappers — real ML pipelines, LLM integrations (OpenAI, Claude), 
 
 ---
 
-## 📌 Featured Projects
-
-> *(Pin your best repos below this section)*
-
-I build things that solve real problems. Check my pinned repositories for examples of my work across web apps, infrastructure tooling, and AI integrations.
-
----
-
 ## 🤝 Open for Remote Contracts
 
 I'm currently available for international freelance projects.
