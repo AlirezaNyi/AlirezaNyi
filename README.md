@@ -82,8 +82,8 @@ Preferred payment: crypto (DAI/USDT on Polygon).
 
 | | |
 |---|---|
-| 📧 Email | hi@gerforu.xyz |
-| 🌐 Website | [gerforu.xyz](https://gerforu.xyz) |
+| 📧 Email |  |
+| 🌐 Website |  |
 | 💼 LaborX | [View my profile](https://laborx.com) |
 | 💬 Timezone | UTC+3:30 (Iran) — flexible hours |
 
