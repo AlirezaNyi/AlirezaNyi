@@ -82,7 +82,7 @@ Preferred payment: crypto (DAI/USDT on Polygon).
 
 | | |
 |---|---|
-| 📧 Email |  |
+| 📧 Email | alireza.ni78@gmail.com |
 | 🌐 Website |  |
 | 💼 LaborX | [View my profile](https://laborx.com) |
 | 💬 Timezone | UTC+3:30 (Iran) — flexible hours |
